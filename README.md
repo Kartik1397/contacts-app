@@ -8,6 +8,7 @@ Your task is to create a **responsive** single page React application that displ
 - The data for the users should be fetched from the given API (See API Endpoints below)
 - Each profile will contain an avatar. You should use [Avatars by DiceBear](https://avatars.dicebear.com/) API to fetch the avatars (See API Endpoints below)
 - The page should be responsive
+- Each of your component should have good unit tests.
 - Optionals
     - While data is being fetched, you can add a loading indicator. (Can be obtained [here](https://tobiasahlin.com/spinkit/))
     - You can implement any of the Like, Edit, Delete functionalities. (See images for clarity)
