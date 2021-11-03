@@ -90,6 +90,20 @@ The `{{username}}` in the URL is the placeholder for the user's username. It sho
 https://avatars.dicebear.com/v2/avataaars/psamd.svg?options[mood][]=happy
 ```
  
- 
+## Screenshots
 
+Dimensions: 1024 x 926
+
+<img src="/Screenshots/1026x926.png" width="50%" height="50%">
+
+
+Edit Mode
+
+<img src="/Screenshots/1026x926%20-%20Edit.png" width="50%" height="50%">
+
+Dimensions: 375 x 926
+
+<img src="/Screenshots/375x926.png" width="25%" height="25%">
+
+Please find the other dimensions in the directory Screenshots.
 
